@@ -1,7 +1,7 @@
 {
-  "name": "Pirate-Translator-BotToken",
+  "name": "Pirate-Translator-OAuth",
   "version": "1.0.0",
-  "description": "Slack /pirate slash command using Bot Token for chat.postMessage, with logging and Pirate Monkeyness API",
+  "description": "Slack /pirate slash command with OAuth to post as user using Pirate Monkeyness API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
