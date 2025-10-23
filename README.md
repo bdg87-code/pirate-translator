@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23074298/README.md)
 # Pirate-Translator OAuth Version (Root Endpoint Fixed)
 
 ## Features
